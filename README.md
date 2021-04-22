@@ -1,1 +1,3 @@
-# LP2-2020-1
+# LP2-2021-1
+
+Repositorio del curso de Lenguaje de Programación 2.
