@@ -11,6 +11,6 @@ package main;
  */
 public class Principal {
     public static void main(String [] args){
-        System.out.println("Mi primer programa en JAVA, hjkl");
+        System.out.println("Mi primer programa en JAVA, hola de nuevo");
     }
 }
