@@ -21,3 +21,21 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/ProyectosJAVA/Clase19042021/nbproject/private/
+/ProyectosJAVA/lp2softGestClientesModel/dist/
+/ProyectosJAVA/lp2softRRHHModel/dist/
+/ProyectosJAVA/lp2softRRHHModel/build/
+/ProyectosJAVA/lp2softRRHHModel/nbproject/private/
+/lp2soft/nbproject/private/
+/lp2soft/build/
+/ProyectosJAVA/lp2soft/nbproject/private/
+/ProyectosJAVA/lp2soft/build/
+/ProyectosJAVA/lp2soft/dist/
+/ProyectosJAVA/lp2softRRHHController/nbproject/private/
+/ProyectosJAVA/lp2softRRHHController/build/
+/ProyectosJAVA/lp2softRRHHController/dist/
+!/ProyectosJAVA/lp2softRRHHController/src/pe/edu/pucp/lp2soft/rrhh/lib/mysql-connector-java-8.0.24.jar
+/ProyectosJAVA/lp2soft2/nbproject/private/
+/ProyectosJAVA/lp2soft2/build/
+/ProyectosJAVA/lp2soft2/dist/
+!/ProyectosJAVA/lp2soft2/src/pe/edu/pucp/lp2soft/lib/mysql-connector-java-8.0.24.jar
