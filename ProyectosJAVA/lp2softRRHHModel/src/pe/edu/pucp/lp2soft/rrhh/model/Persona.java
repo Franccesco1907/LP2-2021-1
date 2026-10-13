@@ -22,6 +22,12 @@ public class Persona implements Serializable{
 
     public Persona(){}
 
+    public Persona(int idPersona, String nombreCompleto, String DNI) {
+        this.idPersona = idPersona;
+        this.nombreCompleto = nombreCompleto;
+        this.DNI = DNI;
+    }
+
     public Persona(String nombreCompleto, String DNI, Date fecha_nacimiento, int edad, char genero) {
         this.nombreCompleto = nombreCompleto;
         this.DNI = DNI;
